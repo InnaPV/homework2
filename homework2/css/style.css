@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+table, td, tr, th {
+    border: 1px solid black;
+
+}
+
+p {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+p, table, tr, td {
+    margin: 20px;
+}
+
+ul {
+    margin-left: 60px;
+
+}
+
+table, tr, td, th {
+    padding: 0px;
+}
+
